@@ -10,7 +10,6 @@ section {
     height: 314px;
     /*wysokosc 1 kadru animacji*/
     position: absolute;
-    background-color: aqua;
     top: 0;
     left: 0;
     animation: move 1s steps(8) infinite, time 4s linear alternate infinite, back 8s linear infinite;
